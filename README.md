@@ -14,10 +14,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Портфолио:
-# Дизайнерские проекты https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
-# React + Node https://ilkor.students.nomoredomains.monster/
-# Адаптивные проекты:
--ilkor4.github.io/russian-travel/
+### Дизайнерские проекты https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
+### React + Node https://ilkor.students.nomoredomains.monster/
+### Адаптивные проекты:
+- https://ilkor4.github.io/kuda-ya-poedy/
+- https://ilkor4.github.io/russian-travel/
+### Десктопные проекты:
+- https://ilkor4.github.io/aperture-studio/
+### Мобильные проекты:
+- https://ilkor4.github.io/courses/
+- https://07-05.ru/
 
 ##  GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkor4&theme=transparent&show_icons=true)
