@@ -17,7 +17,7 @@
 
 ## Портфолио:
 ### Дизайнерские проекты https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
-### React + Node https://ilkor.students.nomoredomains.monster/
+### React + Node https://ilkor4.github.io/movies-explorer-frontend/
 ### Адаптивные проекты:
 - https://aperturestudio.ru
 - https://ilkor4.github.io/kuda-ya-poedy/
