@@ -25,7 +25,7 @@
 ### Десктопные проекты:
 - https://ilkor4.github.io/aperture-studio/
 ### Мобильные проекты:
-- https://ilkor4.github.io/courses/
+- https://cakes-by-julia.ru
 - https://07-05.ru/
 
 ##  GitHub stats
