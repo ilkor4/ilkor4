@@ -1,10 +1,7 @@
 ---
 ## Обо мне:
 
-Занимаюсь разработкой сайтов различной сложности (Frontend-js-developer):
-- сборка сайта на конструкторе Tilda;
-- создание фронтенда под дизайнерский макет;
-- разработка полноценного сайта на Фреймворке React;
+Занимаюсь разработкой сайтов различной сложности на Фреймворке React (Frontend-js-developer):
 
 ## На данный момент мой стек образован из: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -18,15 +15,15 @@
 ## Портфолио:
 ### Дизайнерские проекты https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
 ### React + Node https://ilkor4.github.io/movies-explorer-frontend/
-### Адаптивные проекты:
+### Коммерческие проекты:
 - https://aperturestudio.ru
-- https://ilkor4.github.io/kuda-ya-poedy/
-- https://ilkor4.github.io/russian-travel/
-### Десктопные проекты:
-- https://ilkor4.github.io/aperture-studio/
-### Мобильные проекты:
 - https://cakes-by-julia.ru
 - https://07-05.ru/
+### Pet проекты:
+- https://github.com/ilkor4/movies-explorer-frontend
+- https://ilkor4.github.io/kuda-ya-poedy/
+- https://ilkor4.github.io/russian-travel/
+- https://ilkor4.github.io/aperture-studio/
 
 ##  GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkor4&theme=transparent&show_icons=true)
