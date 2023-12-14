@@ -16,6 +16,7 @@
 ### Дизайнерские проекты https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
 ### React + Node https://ilkor4.github.io/movies-explorer-frontend/
 ### Коммерческие проекты:
+- https://teta.su
 - https://aperturestudio.ru
 - https://cakes-by-julia.ru
 - https://07-05.ru/
