@@ -6,7 +6,8 @@
 
 ## Обо мне:
 
-Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer). Попробовал работать на фрилансе и понял, что это не мое. Поэтому сейчас на пути к своей мечте - устроиться в It-компанию на позицию junior-developer. Для этого я делаю pet-проект со всем современным стеком и, параллельно, решаю задачки на Codewars.
+Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer). Попробовал работать на фрилансе и понял, что это не мое. Поэтому сейчас на пути к своей мечте - устроиться в It-компанию на позицию junior-developer. Для этого я делаю
+<a href="https://github.com/ilkor4/project-production">pet-проект</a> со всем современным стеком и, параллельно, решаю задачки на Codewars.
 
 [![codewars](https://www.codewars.com/users/il.kor/badges/large)](https://www.codewars.com/users/il.kor)
 
@@ -31,8 +32,6 @@
   <img id="stack-img" src="./image/vscode-original.svg" title="VSCode" alt="VSCode" width="50px" height="50px">&nbsp
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkor4&layout=compact)
 
 ## Портфолио:
 
@@ -70,27 +69,36 @@
       <img src="./image/cases/travel.png" title="travel" alt="travel" width="230" height="160"> 
     </a>&nbsp;
   </div>
+</div>
 
 
-
-## Дизайнерские проекты
-https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
-
-## React + Node 
-https://ilkor4.github.io/movies-explorer-frontend/
+## Деплои всех проектов:
 
 ### Коммерческие проекты:
+- https://ilkor4.github.io/dinamo/
 - https://teta.su
 - https://aperturestudio.ru
 - https://cakes-by-julia.ru
 - https://07-05.ru/
+
+
 ### Pet проекты:
-- https://github.com/ilkor4/movies-explorer-frontend
+- https://github.com/ilkor4.github.io/chess/
 - https://ilkor4.github.io/kuda-ya-poedy/
 - https://ilkor4.github.io/russian-travel/
+- https://github.com/ilkor4/react-mesto-api-full-gha
 - https://ilkor4.github.io/aperture-studio/
 
+### Дизайнерские проекты
+
+https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
+
+### React + Node
+
+https://ilkor4.github.io/movies-explorer-frontend/
+
 ##  GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkor4&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilkor4)](https://github.com/ryo-ma/github-profile-trophy)
 
