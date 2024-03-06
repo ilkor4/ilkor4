@@ -1,10 +1,18 @@
-<h1 align="center">Приветствую всех, меня зовут <a href="https://github.com/ilkor4" target="_blank">Корнелюк Илья</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<h1 align="center">
+    Приветствую всех, меня зовут 
+    <a href="https://github.com/ilkor4" target="_blank">Корнелюк Илья</a>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
+</h1>
 
 ## Обо мне:
 
-Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer)
+Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer). Попробовал работать на фрилансе и понял, что это не мое. Поэтому сейчас на пути к своей мечте - устроиться в It-компанию на позицию junior-developer. Для этого я делаю pet-проект со всем современным стеком и, параллельно, решаю задачки на Codewars.
+
+[![codewars](https://www.codewars.com/users/il.kor/badges/large)](https://www.codewars.com/users/il.kor)
+
+## Мои контакты:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilkor44)
 
 ## Мой стек:
 
@@ -22,6 +30,7 @@
   <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/vscode-original.svg" title="VSCode" alt="VSCode" width="50px" height="50px">&nbsp
 </div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkor4&layout=compact)
 
@@ -64,8 +73,12 @@
 
 
 
-### Дизайнерские проекты https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
-### React + Node https://ilkor4.github.io/movies-explorer-frontend/
+## Дизайнерские проекты
+https://disk.yandex.ru/d/CVUxJs_GE8Jy5g
+
+## React + Node 
+https://ilkor4.github.io/movies-explorer-frontend/
+
 ### Коммерческие проекты:
 - https://teta.su
 - https://aperturestudio.ru
@@ -78,9 +91,8 @@
 - https://ilkor4.github.io/aperture-studio/
 
 ##  GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkor4&theme=transparent&show_icons=true)
 
-## Мои контакты:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilkor44)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ilkor4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
