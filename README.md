@@ -6,8 +6,7 @@
 
 ## Обо мне:
 
-Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer). Попробовал работать на фрилансе и понял, что это не мое. Поэтому сейчас на пути к своей мечте - устроиться в It-компанию на позицию junior-developer. Для этого я делаю
-<a href="https://github.com/ilkor4/project-production">pet-проект</a>
+Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer). Попробовал работать на фрилансе и понял, что это не мое. Поэтому сейчас на пути к своей мечте - устроиться в It-компанию на позицию junior-developer. Для этого я делаю pet-проект
 со всем современным стеком и параллельно решаю задачки на Codewars.
 
 [![codewars](https://www.codewars.com/users/il.kor/badges/large)](https://www.codewars.com/users/il.kor)
