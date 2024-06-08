@@ -7,9 +7,10 @@
 ## Обо мне:
 
 Занимаюсь разработкой сайтов различной сложности на React (Frontend-js-developer). Попробовал работать на фрилансе и понял, что это не мое. Поэтому сейчас на пути к своей мечте - устроиться в It-компанию на позицию junior-developer. Для этого я делаю pet-проект
-со всем современным стеком и параллельно решаю задачки на Codewars.
+со всем современным стеком и параллельно решаю задачки на Codewars и Leetcode.
 
-[![codewars](https://www.codewars.com/users/il.kor/badges/large)](https://www.codewars.com/users/il.kor)
+[![codewars](https://www.codewars.com/users/il.kor/badges/large)](https://www.codewars.com/users/il.kor)<br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ilkor4&theme=dark)](https://github.com/ilkor4/leetcode-stats)
 
 ## Мои контакты:
 
@@ -23,6 +24,8 @@
   <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/typescript.svg" title="TypeScript" alt="TypeScript" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/react-hook-form-logo-only.svg" title="ReactHookForm" alt="ReactHookForm" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/redux-original.svg" title="Redux" alt="Redux" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/react-original.svg" title="React" alt="React" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/storybook-original.svg" title="Storybook" alt="Storybook" width="50px" height="50px">&nbsp
@@ -37,36 +40,44 @@
 
 <div>
   <div>
-    <a href="https://github.com/ilkor4/dinamo">
-      <img src="./image/cases/dinamo.png" title="dinamo" alt="dinamo" width="230" height="130"> 
+    <a href="https://github.com/ilkor4/stellar-cars">
+      <img src="./image/cases/cars.png" title="stellar-cars" alt="stellar-cars" width="230" height="150"> 
     </a>&nbsp;
+    <a href="https://github.com/ilkor4/dinamo">
+      <img src="./image/cases/dinamo.png" title="dinamo" alt="dinamo" width="230" height="150"> 
+    </a>&nbsp;
+    <a href="https://github.com/ilkor4/portfolio">
+      <img src="./image/cases/portfolio.png" title="portfolio" alt="portfolio" width="230" height="150"> 
+    </a>&nbsp;
+  </div>
+  <div>
     <a href="https://github.com/ilkor4/chess">
       <img src="./image/cases/chess.png" title="chess" alt="chess" width="230" height="130"> 
     </a>&nbsp;
     <a href="https://github.com/ilkor4/psyhologists">
       <img src="./image/cases/psyhologists.png" title="psyhologists" alt="psyhologists" width="230" height="130"> 
     </a>&nbsp;
-  </div>
-  <div>
     <a href="https://github.com/ilkor4/courses">
       <img src="./image/cases/cakes.png" title="cakes-courses" alt="cakes-courses" width="230" height="130"> 
     </a>&nbsp;
+  </div>
+  <div>
     <a href="https://github.com/ilkor4/aperture">
       <img src="./image/cases/aperture.png" title="aperture" alt="aperture" width="230" height="130"> 
     </a>&nbsp;
     <a href="https://github.com/ilkor4/kuda-ya-poedy">
       <img src="./image/cases/kuda-ya-poedu.png" title="kuda-ya-poedy" alt="kuda-ya-poedy" width="230" height="130"> 
     </a>&nbsp;
+    <a href="https://github.com/ilkor4/movies-explorer-frontend">
+      <img src="./image/cases/movies-explorer.png" title="movies-explorer" alt="movies-explorer" width="230" height="130"> 
+    </a>&nbsp;
   </div>
   <div>
-    <a href="https://github.com/ilkor4/movies-explorer-frontend">
-      <img src="./image/cases/movies-explorer.png" title="movies-explorer" alt="movies-explorer" width="230" height="160"> 
-    </a>&nbsp;
     <a href="https://github.com/ilkor4/react-mesto-api-full-gha">
-      <img src="./image/cases/mesto.png" title="mesto" alt="mesto" width="230" height="160"> 
+      <img src="./image/cases/mesto.png" title="mesto" alt="mesto" width="230" height="180"> 
     </a>&nbsp;
     <a href="https://github.com/ilkor4/russian-travel">
-      <img src="./image/cases/travel.png" title="travel" alt="travel" width="230" height="160"> 
+      <img src="./image/cases/travel.png" title="travel" alt="travel" width="230" height="180"> 
     </a>&nbsp;
   </div>
 </div>
