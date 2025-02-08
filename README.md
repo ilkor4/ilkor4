@@ -88,7 +88,7 @@
 - https://dinamo-grozny.ru
 - https://teta.su
 - https://aperturestudio.ru
-- https://cakes-by-julia.ru
+- https://cakesby-julia.ru/
 - https://ilkor4.github.io/wedding/
 
 
